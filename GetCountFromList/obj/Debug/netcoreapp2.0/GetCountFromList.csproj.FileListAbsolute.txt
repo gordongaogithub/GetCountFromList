@@ -1,0 +1,11 @@
+c:\users\gc\source\repos\GetCountFromList\GetCountFromList\bin\Debug\netcoreapp2.0\GetCountFromList.deps.json
+c:\users\gc\source\repos\GetCountFromList\GetCountFromList\bin\Debug\netcoreapp2.0\GetCountFromList.runtimeconfig.json
+c:\users\gc\source\repos\GetCountFromList\GetCountFromList\bin\Debug\netcoreapp2.0\GetCountFromList.runtimeconfig.dev.json
+c:\users\gc\source\repos\GetCountFromList\GetCountFromList\bin\Debug\netcoreapp2.0\GetCountFromList.dll
+c:\users\gc\source\repos\GetCountFromList\GetCountFromList\bin\Debug\netcoreapp2.0\GetCountFromList.pdb
+c:\users\gc\source\repos\GetCountFromList\GetCountFromList\obj\Debug\netcoreapp2.0\GetCountFromList.csprojAssemblyReference.cache
+c:\users\gc\source\repos\GetCountFromList\GetCountFromList\obj\Debug\netcoreapp2.0\GetCountFromList.csproj.CoreCompileInputs.cache
+c:\users\gc\source\repos\GetCountFromList\GetCountFromList\obj\Debug\netcoreapp2.0\GetCountFromList.AssemblyInfoInputs.cache
+c:\users\gc\source\repos\GetCountFromList\GetCountFromList\obj\Debug\netcoreapp2.0\GetCountFromList.AssemblyInfo.cs
+c:\users\gc\source\repos\GetCountFromList\GetCountFromList\obj\Debug\netcoreapp2.0\GetCountFromList.dll
+c:\users\gc\source\repos\GetCountFromList\GetCountFromList\obj\Debug\netcoreapp2.0\GetCountFromList.pdb
