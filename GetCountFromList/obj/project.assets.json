@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\gc\\source\\repos\\GetCountFromList\\GetCountFromList\\GetCountFromList.csproj",
+      "projectUniqueName": "D:\\Study_GC\\project\\GetCountFromList\\GetCountFromList\\GetCountFromList.csproj",
       "projectName": "GetCountFromList",
-      "projectPath": "c:\\users\\gc\\source\\repos\\GetCountFromList\\GetCountFromList\\GetCountFromList.csproj",
+      "projectPath": "D:\\Study_GC\\project\\GetCountFromList\\GetCountFromList\\GetCountFromList.csproj",
       "packagesPath": "C:\\Users\\GC\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\gc\\source\\repos\\GetCountFromList\\GetCountFromList\\obj\\",
+      "outputPath": "D:\\Study_GC\\project\\GetCountFromList\\GetCountFromList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
