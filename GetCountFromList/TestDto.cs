@@ -9,7 +9,7 @@ namespace GetCountFromList
         public TestDto()
         {
         }
-
+        //
         public TestDto(int type)
         {
             this.Type = type;
