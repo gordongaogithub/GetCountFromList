@@ -5,7 +5,7 @@ namespace GetCountFromList
 {
     class Program
     {
-        //修改修改
+        //测试一下idea提交
         /// <summary>
         ///需求：对象集合中，计算相同类型的个数
         ///思路：1,2,3,1,2,1
