@@ -4,9 +4,7 @@ using System.Collections.Generic;
 namespace GetCountFromList
 {
     class Program
-    {
-        //test2
-        //添加test
+    {       
         //测试一下idea提交
         /// <summary>
         ///需求：对象集合中，计算相同类型的个数
