@@ -5,6 +5,7 @@ namespace GetCountFromList
 {
     class Program
     {
+        //test2
         //添加test
         //测试一下idea提交
         /// <summary>
